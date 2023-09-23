@@ -16,8 +16,8 @@ Whether you're a mathematician trying to visualize complex graph structures or a
 
 ## Getting Started
 
-1. Dive into our [documentation](https://github.com/Anekemuthep/ZykovAlgebraLibrary/tree/main/docs) to explore the capabilities of the `zykovEngine`.
-2. Run the [live demo](https://github.com/Anekemuthep/ZykovAlgebraLibrary/tree/main/demo) to witness the magic in action.
+1. Dive into our [documentation](#Graph-Visualization-Tool) to explore the capabilities of the `zykovEngine`.
+2. Run the [live demo](https://alfonso.one/zykov-algebra-on-the-go/) to witness the magic in action.
 3. Clone, star, or fork the repository from [here](https://github.com/Anekemuthep/ZykovAlgebraLibrary/tree/main) to embark on your graph algebra journey.
 
 ---
@@ -26,7 +26,7 @@ Feel the algebraic pulse of graphs with `zykovEngine`. **Happy graphing!**
 
 ---
 
-# Graph Visualization Tool
+# Graph Visualization Tool 
 
 This tool allows users to visualize graphs in a unique and concise manner. Using numbers as vertex representations, we define two primary operations: addition and multiplication.
 
@@ -61,7 +61,3 @@ Here,
 ## Visualization
 
 Once you input this graph representation into the tool, it will visualize the graph showing all the vertices and the connections (edges) between them.
-
-## Try yourself
-You can try yourself the library in the following small extension-article to our research on Zykov Algebra:
-https://alfonso.one/zykov-algebra-on-the-go/
