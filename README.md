@@ -64,4 +64,4 @@ Once you input this graph representation into the tool, it will visualize the gr
 
 ## Try yourself
 You can try yourself the library in the following small extension-article to our research on Zykov Algebra:
-https://alfonso.one/zykov-algebra-on-the-go/)https://alfonso.one/zykov-algebra-on-the-go/
+https://alfonso.one/zykov-algebra-on-the-go/
