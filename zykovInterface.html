@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graph Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.1/sigma.min.js"></script>
+    <script src="zykovEngine.js"></script>
+    <style>
+        #container {
+            max-width: 100%;
+            height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <label for="expression">Enter graph expression (then press enter key):</label>
+      <input
+        type="text"
+        id="expression"
+        onkeydown="if(event.keyCode===13)drawGraph()"
+      />
+    </div>
+    <div id="container"></div>
+</body>
+</html>
