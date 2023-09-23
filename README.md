@@ -63,5 +63,5 @@ Here,
 Once you input this graph representation into the tool, it will visualize the graph showing all the vertices and the connections (edges) between them.
 
 ## Try yourself
-You can try yourself the library at the following link:
-https://stackblitz.com/edit/web-platform-cxi1fv?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview
+You can try yourself the library in the following small extension-article to our research on Zykov Algebra:
+https://alfonso.one/zykov-algebra-on-the-go/)https://alfonso.one/zykov-algebra-on-the-go/
