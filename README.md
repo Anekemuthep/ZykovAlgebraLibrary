@@ -71,7 +71,7 @@ Once you input this graph representation into the tool, it will visualize the gr
 
 1. **Path Graph**: Let us write a [Path Graph](https://mathworld.wolfram.com/PathGraph.html#:~:text=The%20path%20graph%20is%20a,Gross%20and%20Yellen%202006%2C%20p.) of five nodes. In `Enter graph expression (then press enter key)` write the following:
    ```
-   1*2+2*3+3*4+4*5
+   1*2 + 2*3 + 3*4 + 4*5
    ```
 <img width="634" alt="pathGraph" src="zykovLibrary1.png" width="128">
 
