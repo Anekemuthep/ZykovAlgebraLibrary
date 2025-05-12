@@ -81,7 +81,7 @@ Once you input this graph representation into the tool, it will visualize the gr
    ```
 <img width="634" alt="CompleteGraph" src="zykovLibrary2.png" width="128">
 
-2. **Complete Tripartite Graph**: Let us write a[Complete Tripartite Graph](https://mathworld.wolfram.com/CompleteTripartiteGraph.html) of 3,3,2 nodes. In `Enter graph expression (then press enter key)` write the following expression:
+2. **Complete Tripartite Graph**: Let us write a [Complete Tripartite Graph](https://mathworld.wolfram.com/CompleteTripartiteGraph.html) of 3,3,2 nodes. In `Enter graph expression (then press enter key)` write the following expression:
    ```
    (1+2+3)*(4+5+6)*(7+8)
    ```
