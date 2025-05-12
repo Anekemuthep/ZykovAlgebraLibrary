@@ -48,9 +48,9 @@ The addition of two numbers (or vertex representations) `a + b` indicates that v
 
 The multiplication of two numbers `a * b` signifies that there's an edge between vertices `a` and `b`.
 
-## Basics
+## Algebraic Representation of a Graph
 
-Consider the graph representation: 
+Consider the algebraic representation: 
 
 `G = 1*2 + 1*3 + 1*4 + 1*5 + 2*3 + 2*4 + 2*5 + 3*4 + 3*5 + 4*5 + 5*6 + 5*7 + 6*7`
 
