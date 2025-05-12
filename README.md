@@ -4,9 +4,8 @@ Greetings, curious coder! Dive into the realm of graph theory with the `zykovEng
 
 ## About zykovEngine
 
-The `zykovEngine` is inspired by A. A. Zykov's pioneering 1949 algebraic approach to graph theory in `General Properties of Linear Com-
-plexes`, and featured in the recent 2025 work by A.Bustamante et al. titled `A Zykov algebra approach to clique propagation:
-Classifying clique complexes in graphs`, [to be published soon in Discrete Mathematics, Algorithms and Applications].(https://www.worldscientific.com/doi/abs/10.1142/S1793830925500806).  With the modern elegance of JavaScript, this library breathes life into graph expressions, offering an intuitive way to interact with and visualize them.
+The `zykovEngine` is inspired by A. A. Zykov's pioneering 1949 algebraic approach to graph theory in `General Properties of Linear Complexes`, and featured in the recent 2025 work by A.Bustamante et al. titled `A Zykov algebra approach to clique propagation:
+Classifying clique complexes in graphs`, [to be published soon in Discrete Mathematics, Algorithms and Applications](https://www.worldscientific.com/doi/abs/10.1142/S1793830925500806).  With the modern elegance of JavaScript, this library breathes life into graph expressions, offering an intuitive way to interact with and visualize them.
 
 ### Features:
 - 🚀 **Simple Operations**: Effortlessly perform graph algebraic operations like addition and multiplication.
@@ -49,11 +48,15 @@ The addition of two numbers (or vertex representations) `a + b` indicates that v
 
 The multiplication of two numbers `a * b` signifies that there's an edge between vertices `a` and `b`.
 
-## Example
+## Basics
 
 Consider the graph representation: 
 
 `G = 1*2 + 1*3 + 1*4 + 1*5 + 2*3 + 2*4 + 2*5 + 3*4 + 3*5 + 4*5 + 5*6 + 5*7 + 6*7`
+
+For the graph:
+
+<img width="634" alt="CompleteGraph" src="exampleGraphForZlib.png" width="128">
 
 Here, 
 - There's an edge between vertices 1 and 2 (`1*2`), vertices 1 and 3 (`1*3`), and so on.
