@@ -61,7 +61,7 @@ For the graph:
 Here, 
 - There's an edge between vertices 1 and 2 (`1*2`), vertices 1 and 3 (`1*3`), and so on.
 - Vertices 5 and 6 (`5*6`), and vertices 5 and 7 (`5*7`) as are connected, can also be written as `5*(6+7)`.
-- In the article by A.Bustamante et al. can be seen that the sub-expressions `1*2 + 1*3 + 1*4 + 1*5 + 2*3 + 2*4 + 2*5` and `5*6 + 5*7 + 6*7`because of `Zykov Concentration` (see pages 14-16 of the refered work) can be written as `1*2*3*4*5` and `5*6*7`respectivley, so we have `G=1*2*3*4*5+5*6*7`as a valid algebraic equivalence.
+- In the article by A.Bustamante et al. can be seen that the sub-expressions `1*2 + 1*3 + 1*4 + 1*5 + 2*3 + 2*4 + 2*5` and `5*6 + 5*7 + 6*7`because of `Zykov Concentration` (see pages 14-16 of the refered work) can be written as `1*2*3*4*5` and `5*6*7`respectivley, so we have `G = 1*2*3*4*5 + 5*6*7`as a valid algebraic equivalence.
 
 ## Visualization
 
