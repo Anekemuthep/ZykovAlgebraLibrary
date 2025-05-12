@@ -73,13 +73,13 @@ Once you input this graph representation into the tool, it will visualize the gr
    ```
    1*2+2*3+3*4+4*5
    ```
-<img width="634" alt="pathGraph" src="zykovLibrary1 (1).png" width="128">
+<img width="634" alt="pathGraph" src="zykovLibrary1.png" width="128">
 
 2. **Complete Graph**: Let us write a [Complete Graph](https://mathworld.wolfram.com/CompleteGraph.html) of six nodes. In `Enter graph expression (then press enter key)` write simply the following:
    ```
    1*2*3*4*5*6
    ```
-<img width="634" alt="CompleteGraph" src="zykovLibrary2 (1).png" width="128">
+<img width="634" alt="CompleteGraph" src="zykovLibrary2.png" width="128">
 
 2. **Complete Tripartite Graph**: Let us write a[Complete Tripartite Graph](https://mathworld.wolfram.com/CompleteTripartiteGraph.html) of 3,3,2 nodes. In `Enter graph expression (then press enter key)` write the following expression:
    ```
