@@ -68,3 +68,4 @@ Once you input this graph representation into the tool, it will visualize the gr
    ```
    1*2+2*3+3*4+4*5
    ```
+![PATH](zykovLibrary1 (1).png)
