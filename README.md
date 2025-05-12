@@ -4,7 +4,9 @@ Greetings, curious coder! Dive into the realm of graph theory with the `zykovEng
 
 ## About zykovEngine
 
-The `zykovEngine` is inspired by A. A. Zykov's fascinating algebraic approach to graph theory. With the modern elegance of JavaScript, this library breathes life into graph expressions, offering an intuitive way to interact with and visualize them.
+The `zykovEngine` is inspired by A. A. Zykov's pioneering 1949 algebraic approach to graph theory in `General Properties of Linear Com-
+plexes`, and featured in the recent 2025 work by A.Bustamante et al. titled `A Zykov algebra approach to clique propagation:
+Classifying clique complexes in graphs`, [to be published soon in Discrete Mathematics, Algorithms and Applications].(https://www.worldscientific.com/doi/abs/10.1142/S1793830925500806).  With the modern elegance of JavaScript, this library breathes life into graph expressions, offering an intuitive way to interact with and visualize them.
 
 ### Features:
 - 🚀 **Simple Operations**: Effortlessly perform graph algebraic operations like addition and multiplication.
@@ -64,8 +66,20 @@ Once you input this graph representation into the tool, it will visualize the gr
 
 ## Examples:
 
-1. **Path Graoph**: Let us write a [Path Graph](https://mathworld.wolfram.com/PathGraph.html#:~:text=The%20path%20graph%20is%20a,Gross%20and%20Yellen%202006%2C%20p.) of five nodes. In `Enter graph expression (then press enter key)` write the following:
+1. **Path Graph**: Let us write a [Path Graph](https://mathworld.wolfram.com/PathGraph.html#:~:text=The%20path%20graph%20is%20a,Gross%20and%20Yellen%202006%2C%20p.) of five nodes. In `Enter graph expression (then press enter key)` write the following:
    ```
    1*2+2*3+3*4+4*5
    ```
-![PATH](zykovLibrary1 (1).png)
+<img width="634" alt="pathGraph" src="zykovLibrary1 (1).png" width="128">
+
+2. **Complete Graph**: Let us write a [Complete Graph](https://mathworld.wolfram.com/CompleteGraph.html) of six nodes. In `Enter graph expression (then press enter key)` write simply the following:
+   ```
+   1*2*3*4*5*6
+   ```
+<img width="634" alt="CompleteGraph" src="zykovLibrary2 (1).png" width="128">
+
+2. **Complete Tripartite Graph**: Let us write a[Complete Tripartite Graph](https://mathworld.wolfram.com/CompleteTripartiteGraph.html) of 3,3,2 nodes. In `Enter graph expression (then press enter key)` write the following expression:
+   ```
+   (1+2+3)*(4+5+6)*(7+8)
+   ```
+<img width="634" alt="CompleteGraph" src="3partiteGraph.png" width="128">
