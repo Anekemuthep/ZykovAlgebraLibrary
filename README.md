@@ -61,3 +61,10 @@ Here,
 ## Visualization
 
 Once you input this graph representation into the tool, it will visualize the graph showing all the vertices and the connections (edges) between them.
+
+## Examples:
+
+1. **Path Graoph**: Let us write a [Path Graph](https://mathworld.wolfram.com/PathGraph.html#:~:text=The%20path%20graph%20is%20a,Gross%20and%20Yellen%202006%2C%20p.) of five nodes. In `Enter graph expression (then press enter key)` write the following:
+   ```
+   1*2+2*3+3*4+4*5
+   ```
