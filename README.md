@@ -56,7 +56,7 @@ Consider the graph representation:
 
 For the graph:
 
-<img width="634" alt="CompleteGraph" src="exampleGraphForZlib.png" width="128">
+<img width="634" alt="CompleteGraph" src="exampleGraph.png" width="128">
 
 Here, 
 - There's an edge between vertices 1 and 2 (`1*2`), vertices 1 and 3 (`1*3`), and so on.
