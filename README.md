@@ -65,7 +65,15 @@ Here,
 
 ## Visualization
 
-Once you input this graph representation into the tool, it will visualize the graph showing all the vertices and the connections (edges) between them.
+Once you input this graph representation into `Enter graph expression (then press enter key)` as
+```
+   1*2 + 1*3 + 1*4 + 1*5 + 2*3 + 2*4 + 2*5 + 3*4 + 3*5 + 4*5 + 5*6 + 5*7 + 6*7
+```
+or
+```
+   1*2*3*4*5 + 5*6*7
+```
+it will visualize the graph showing all the vertices and the connections (edges) between them.
 
 ## Examples:
 
