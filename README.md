@@ -18,7 +18,7 @@ Whether you're a mathematician trying to visualize complex graph structures or a
 ## Getting Started
 
 1. Dive into our [documentation](#Graph-Visualization-Tool) to explore the capabilities of the `zykovEngine`.
-2. Run the [live demo](https://stackblitz.com/edit/web-platform-cxi1fv?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview) to witness the magic in action.
+2. Run the [live demo](https://alfonso.one/zykov-demo) to witness the magic in action.
 3. Clone, star, or fork the repository from [here](https://github.com/Anekemuthep/ZykovAlgebraLibrary/tree/main) to embark on your graph algebra journey.
 
 ---
