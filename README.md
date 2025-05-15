@@ -56,7 +56,7 @@ Consider the algebraic representation:
 
 For the graph:
 
-<img width="634" alt="CompleteGraph" src="exampleGraph.png" width="128">
+<img width="634" alt="ExampleGraph" src="exampleGraph.png" width="128">
 
 Here, 
 - There's an edge between vertices 1 and 2 (`1*2`), vertices 1 and 3 (`1*3`), and so on.
@@ -93,4 +93,4 @@ it will visualize the graph showing all the vertices and the connections (edges)
    ```
    (1+2+3)*(4+5+6)*(7+8)
    ```
-<img width="634" alt="CompleteGraph" src="3partiteGraph.png" width="128">
+<img width="634" alt="CompleteTriGraph" src="3partiteGraph.png" width="128">
