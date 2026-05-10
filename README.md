@@ -94,3 +94,7 @@ it will visualize the graph showing all the vertices and the connections (edges)
    (1+2+3)*(4+5+6)*(7+8)
    ```
 <img width="634" alt="CompleteTriGraph" src="3partiteGraph.png" width="128">
+
+# New: A Graph Programming Language for Graph Experiments and Semantic Websites
+
+Check our new project: [Zykov Algebra](https://github.com/Anekemuthep/Zykov), a programming language for algebraic experimentation with graphs and the creation of curatorial semantic websites or sites where its exploration of content is graph navegation based.
