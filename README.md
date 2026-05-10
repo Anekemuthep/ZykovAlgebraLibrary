@@ -95,7 +95,7 @@ it will visualize the graph showing all the vertices and the connections (edges)
    ```
 <img width="634" alt="CompleteTriGraph" src="3partiteGraph.png" width="128">
 
-## New: A Graph Programming Language for Graph Experiments and Semantic Websites
+## Introducing Zykov: A Graph Programming Language for Semantic Publishing and Graph Experiments
 
 Check our new project: [Zykov](https://github.com/Anekemuthep/Zykov), a programming language for algebraic experimentation with graphs and the construction of semantic curatorial spaces on the web.
 
