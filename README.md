@@ -93,7 +93,7 @@ it will visualize the graph showing all the vertices and the connections (edges)
    ```
    (1+2+3)*(4+5+6)*(7+8)
    ```
-<img width="1634" alt="CompleteTriGraph" src="3partiteGraph.png" width="128">
+<img width="634" alt="CompleteTriGraph" src="3partiteGraph.png" width="128">
 
 ## Introducing Zykov: A Graph Programming Language for Semantic Publishing and Graph Experiments
 
@@ -103,4 +103,4 @@ In Zykov, content becomes topology, and navigation becomes exploration through g
 
 Join a new generation of mathematicians, programmers, artists, and curators who draw, connect, and share ideas through algebraic graph expressions.
 
-<img width="634" alt="ExampleGraph" src="zy-greeting.png" width="128">
+<img width="1634" alt="ExampleGraph" src="zy-greeting.png" width="128">
